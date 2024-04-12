@@ -68,4 +68,4 @@ Step 3. Done, you're great!!!
 - Minimum disk space: 20 GB
 - Minimum number of processor cores: 2
 - Processor Intel Cascade Lake processor (Intel Xeon Gen2) and above
-- Python 3.12
+- Python 3.12<
