@@ -15,7 +15,7 @@ Step 4. Restart your computer and verify the installation by running:
 
 `ffmpeg -version`
 
-Step 5. Done, you're great
+Step 5. Done, you're great.
 
 **If you are using Windows Linux**
 
